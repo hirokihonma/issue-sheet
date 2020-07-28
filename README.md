@@ -9,5 +9,5 @@
 
 ## Usage
 ### :green_book: Excel
-* [FMT]()
-* [利用方法(Wiki)]()
+* [FMT](https://github.com/hirokihonma/issue-sheet/blob/master/resource/fmt_issue-sheet.xlsx)
+* [利用方法(Wiki)](https://github.com/hirokihonma/issue-sheet/wiki/How-to-Excel-FMT)
